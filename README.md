@@ -13,7 +13,7 @@ No no! This would be horrible. Programming should always be fun! But earning mon
 
 > I don't understand. What's different when i start earning money with it?
 
-You must return a value. If you spend money on something, you want something in return. It is kust that simple. You would not buy anything which does not represent any kind of value to you, wouldn't you?
+You must return a value. If you spend money on something, you want something in return. It is just that simple. You would not buy anything which does not represent any kind of value to you, wouldn't you?
 
 > That's too abstract to me. What does "value" mean in terms of software?
 
