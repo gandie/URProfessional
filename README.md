@@ -1,5 +1,6 @@
 # URProfessional
-Thoughts about professional programming
+
+Thoughts about professional programming. Drafting a guideline on how to educate young professional coders.
 
 # Intro
 
