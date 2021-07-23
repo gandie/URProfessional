@@ -35,7 +35,7 @@ It just takes more than technical skill to earn money with software.
 
 > But what else do i need then?
 
-Methods. Methods make you a professional. You are able to organize your work into manageable pieces. You can use methods to plan your work and communicate about it with other coders and ( ! ) users of your software. By organizing you are able to estimate more and more precisely in order to calculate the value created by your software.
+Methods. Methods help you to become a professional. You are able to organize your work into manageable pieces. You can use methods to plan your work and communicate about it with other coders and ( ! ) users of your software. By organizing you are able to estimate more and more precisely in order to calculate the value created by your software.
 
 
 
