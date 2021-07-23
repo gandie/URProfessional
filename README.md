@@ -29,7 +29,13 @@ And the one million dollar question has not been asked yet: How much does it cos
 
 > Well, i would estimate the price by the time it takes me to write it.
 
-Good approach, but do you know how long it will take you *before* you start?
+Good approach, but do you know how long it will take you *before* you start? Are you 100% sure the software ordered can be finished in a limited time?
+
+It just takes more than technical skill to earn money with software.
+
+> But what else do i need then?
+
+Methods. Methods make you a professional. You are able to organize your work into manageable pieces. You can use methods to plan your work and communicate about it with other coders and ( ! ) users of your software. By organizing you are able to estimate more and more precisely in order to calculate the value created by your software.
 
 
 
