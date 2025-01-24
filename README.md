@@ -1,6 +1,6 @@
 # URProfessional
 
-Thoughts about professional programming. Drafting a guideline on how to educate young professional coders.
+Thoughts about professional programming. Drafting a guideline on how to educate young professional coders. Writing in dialectic style which seems appropriate to reflect the topic.
 
 # Intro
 
