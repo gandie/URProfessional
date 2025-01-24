@@ -6,7 +6,7 @@ Thoughts about professional programming. Drafting a guideline on how to educate 
 
 > What's the difference between professional and amateur coders?
 
-It is **not** ttechnical skill. There are many coders out there doing great work without being professionals. They just love it and do it for fun, which is great and most appreciated. You *are* a professional coder as soon as you start earning money with it. Period. Deal with it.
+It is **not** technical skill. There are many coders out there doing great work without being professionals. They just love coding and do it for fun, which is great and most appreciated. You *are* a professional coder as soon as you start earning money with it. Simple as that.
 
 > So professional programming is not fun?
 
@@ -36,8 +36,4 @@ It just takes more than technical skill to earn money with software.
 
 > But what else do i need then?
 
-Methods. Methods help you to become a professional. You are able to organize your work into manageable pieces. You can use methods to plan your work and communicate about it with other coders and ( ! ) users of your software. By organizing you are able to estimate more and more precisely in order to calculate the value created by your software.
-
-
-# Links
-
+Methods. Methods help you to become a professional. You are able to organize your work into manageable pieces. You can use methods to plan your work and communicate about it with other coders and ( ! ) users of your software. By organizing, you are able to estimate more and more precisely in order to calculate the value created by your software.
